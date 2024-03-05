@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\bin\Debug\net6.0\P04-Trapezoid-Area.exe
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\bin\Debug\net6.0\P04-Trapezoid-Area.deps.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\bin\Debug\net6.0\P04-Trapezoid-Area.runtimeconfig.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\bin\Debug\net6.0\P04-Trapezoid-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\bin\Debug\net6.0\P04-Trapezoid-Area.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\refint\P04-Trapezoid-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\P04-Trapezoid-Area.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P04-Trapezoid-Area\obj\Debug\net6.0\ref\P04-Trapezoid-Area.dll

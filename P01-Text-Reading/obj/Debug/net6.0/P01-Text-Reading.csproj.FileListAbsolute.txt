@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\bin\Debug\net6.0\P01-Text-Reading.exe
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\bin\Debug\net6.0\P01-Text-Reading.deps.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\bin\Debug\net6.0\P01-Text-Reading.runtimeconfig.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\bin\Debug\net6.0\P01-Text-Reading.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\bin\Debug\net6.0\P01-Text-Reading.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\refint\P01-Text-Reading.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\P01-Text-Reading.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P01-Text-Reading\obj\Debug\net6.0\ref\P01-Text-Reading.dll

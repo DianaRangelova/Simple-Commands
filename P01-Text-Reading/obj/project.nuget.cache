@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0UkGqJC98DgLhVGsN3mhZ8mXYRDPL5qcjCrEKO+Nj7TDU32LYMl6pIBzTlPzzQyhudaE3t+10+hopWjWXA3axA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Exercises-Simple-Commands\\P01-Text-Reading\\P01-Text-Reading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

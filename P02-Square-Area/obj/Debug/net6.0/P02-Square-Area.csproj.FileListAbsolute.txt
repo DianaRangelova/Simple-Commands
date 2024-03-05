@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\bin\Debug\net6.0\P02-Square-Area.exe
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\bin\Debug\net6.0\P02-Square-Area.deps.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\bin\Debug\net6.0\P02-Square-Area.runtimeconfig.json
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\bin\Debug\net6.0\P02-Square-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\bin\Debug\net6.0\P02-Square-Area.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.AssemblyInfo.cs
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\refint\P02-Square-Area.dll
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.pdb
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\P02-Square-Area.genruntimeconfig.cache
+C:\Users\PC\source\repos\Exercises-Simple-Commands\P02-Square-Area\obj\Debug\net6.0\ref\P02-Square-Area.dll
